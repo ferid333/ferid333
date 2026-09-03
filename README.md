@@ -14,7 +14,6 @@
 * 💬 Ask me about **Python, Java, SQL**
 * 🌱 Currently improving **System Design & Scalable Architectures**
 * 📫 Reach me: **[feridqurbanov333@gmail.com](mailto:feridqurbanov333@gmail.com)**
-* 🌐 Portfolio: https://farid-gurbanov.web.app
 
 ---
 
